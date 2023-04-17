@@ -17,3 +17,4 @@ put this in your server.cfg:
 
 "start instagram"
 
+![inst](https://user-images.githubusercontent.com/122513007/232511859-229a1468-b499-42b0-b439-6471ad103722.JPG)
